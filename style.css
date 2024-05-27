@@ -1,0 +1,81 @@
+/* Place your CSS styles in this file */
+
+body {
+   background-image: url("IMG-20240517-WA0011.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: contain;
+  background-size: cover;
+ }
+
+}
+nav ul {list-style-type: none;
+}
+nav ul li {display: inline}
+
+ul {
+   background: #66ccff; 
+   padding: 25px 20px;
+   border-radius: 10px;
+   border: solid black;
+   }
+
+li {
+    font-size: 30px;
+    font-family: Georgia;
+    padding: 10px 15px;
+    color: white;
+    background-color: pink;
+    border-radius: 10px;
+    border: solid black;
+}
+
+ul li {list-style-type-none; display: inline-block;}
+
+
+p { 
+    color: black;
+    font-size: 25px;
+}
+
+h1 { 
+     text-align: center;
+     color: #5F6A6F;
+     font-size: 50px;
+}
+h2 {
+    text-align: center;
+    color: purple;
+    font-size: 35px;
+}
+h3 {
+    font-size: 50px;
+    color: #0000cc;
+    text-align: center;
+   }
+
+h4 {color: #3D8140;
+    font-family: sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+h5 {
+    font-size: 60px;
+    color: #D77830;
+    text-align: center;
+}
+h6 {
+    font-size: 35px;
+    color: #D66289;
+    text-align: center;
+}
+marquee {
+   font-size: 50px;
+   color: #3D8140;
+}
+
+h8 { font-size: 40px;
+     color: #2C8D97;
+     text-align: center;
+}
